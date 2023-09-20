@@ -1,7 +1,7 @@
 ## Hi There 👋
 
 <div align="center">
-	 <img align="right" src="./assets/illustrations/programming.gif" alt="Programming illustration" width="200" height="140" style="border-radius: 15px;">
+	 <img align="right" src="./assets/images/programming.gif" alt="Programming illustration" width="200" height="140">
 	<p>My name is <strong>Solahudin Al Malibari</strong>, a student with a strong interest in Backend Development.<br> I have recently started exploring the world of coding and have found my passion in creating efficient<br> and robust backend systems with <i>Java</i>.</p>
 	<p>Feel free to connect with me on GitHub and my other social media platforms!</p>
 	<div>
