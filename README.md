@@ -1,11 +1,11 @@
 ## Hi There 👋
 
-<div align="center" style="display: flex;">
-  <div style="flex: 60%;">
-    <p>My name is <strong>Solahudin Al Malibari</strong>, a student with a strong interest in Backend Development. I have recently started exploring the world of coding and have found my passion in creating efficient and robust backend systems with <i>Java</i>.</p>
-		<p>Feel free to connect with me on GitHub and my other social media platforms!</p>
-		<div style="margin-left: 10px">
-			<a href="https://dev.to/solahkay#gh-light-mode-only" target="blank"><img align="center" src="./assets/icons/devdotto-light.svg" alt="solahkay" height="37" width="40" /></a>
+<div align="center">
+	 <img align="right" src="./assets/illustrations/programming.gif" alt="Programming illustration" width="200" height="140" style="border-radius: 15px;">
+	<p>My name is <strong>Solahudin Al Malibari</strong>, a student with a strong interest in Backend Development.<br> I have recently started exploring the world of coding and have found my passion in creating efficient<br> and robust backend systems with <i>Java</i>.</p>
+	<p>Feel free to connect with me on GitHub and my other social media platforms!</p>
+	<div>
+		<a href="https://dev.to/solahkay#gh-light-mode-only" target="blank"><img align="center" src="./assets/icons/devdotto-light.svg" alt="solahkay" height="37" width="40" /></a>
 		<a href="https://dev.to/solahkay#gh-dark-mode-only" target="blank"><img align="center" src="./assets/icons/devdotto-dark.svg" alt="solahkay" height="37" width="40" /></a>
 		<a href="https://www.linkedin.com/in/solahkay/#gh-light-mode-only" target="blank"><img align="center" src="./assets/icons/linkedin-light.svg" alt="solahkay" height="30" width="40" /></a>
 		<a href="https://www.linkedin.com/in/solahkay/#gh-dark-mode-only" target="blank"><img align="center" src="./assets/icons/linkedin-dark.svg" alt="solahkay" height="30" width="40" /></a>
@@ -13,14 +13,7 @@
 		<a href="https://hashnode.com/@solahkay#gh-dark-mode-only" target="blank"><img align="center" src="./assets/icons/hashnode-dark.svg" alt="solahkay" height="25" width="25" /></a>
 		<a href="https://www.instagram.com/solahkay/#gh-light-mode-only" target="blank"><img align="center" src="./assets/icons/instagram-light.svg" alt="solahkay" height="25" width="40" /></a>
 		<a href="https://www.instagram.com/solahkay/#gh-dark-mode-only" target="blank"><img align="center" src="./assets/icons/instagram-dark.svg" alt="solahkay" height="25" width="40" /></a>
-		</div>
-  </div>
-	
-  <div style="flex: 40%;">
-		<br>
-    <img src="./assets/illustrations/programming.gif" alt="Programming illustration" width="200" height="140" style="border-radius: 15px;">
-  </div>
-</div>
+	</div>
 <hr>
 
 <p align="center">
