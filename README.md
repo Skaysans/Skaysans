@@ -2,7 +2,7 @@
 
 <div align="center">
 	 <img align="right" src="./assets/images/solahkay.png" alt="Solahkay logo" width="300" height="170">
-	<p>My name is <strong>Solahudin Al Malibari</strong>, a student with a strong interest in Backend Development.<br> I have recently started exploring the world of coding and have found my passion in creating efficient<br> and robust backend systems with <i>Java</i>.</p>
+	<p>My name is <strong>Solahudin Al Malibari</strong>, a student with a strong interest in Backend Development. I have recently started exploring the world of coding and have found my passion in creating efficient and robust backend systems with <i>Java</i>.</p>
 	<p>Feel free to connect with me on GitHub and my other social media platforms!</p>
 	<div>
 		<a href="https://dev.to/solahkay#gh-light-mode-only" target="blank"><img align="center" src="./assets/icons/devdotto-light.svg" alt="solahkay" height="37" width="40" /></a>
