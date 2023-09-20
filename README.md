@@ -47,7 +47,7 @@
 	<a href="https://www.postman.com/"><img src="https://custom-icon-badges.demolab.com/badge/Postman-FF6C37?logo=Postman&logoColor=white&style=flat"></a>
 	<a href="https://editorconfig.org/#gh-light-mode-only"><img src="https://custom-icon-badges.demolab.com/badge/Editor_Config-E0EFEF?logo=editorconfig&logoColor=black&style=flat"></a>
 	<a href="https://editorconfig.org/#gh-dark-mode-only"><img src="https://custom-icon-badges.demolab.com/badge/Editor_Config-423F3E?logo=editorconfig&logoColor=white&style=flat"></a>
-	<a href="https://spring.io/"><img src="	https://custom-icon-badges.demolab.com/badge/Spring-6DB33F?logo=spring&logoColor=white&style=flat"></a>
+	<a href="https://spring.io/"><img src="https://custom-icon-badges.demolab.com/badge/Spring-6DB33F?logo=spring&logoColor=white&style=flat"></a>
 	<a href="https://spring.io/projects/spring-boot#gh-light-mode-only"><img src="https://custom-icon-badges.demolab.com/badge/Spring_Boot-F2F4F9?logo=spring-boot&style=flate"></a>
 	<a href="https://spring.io/projects/spring-boot#gh-dark-mode-only"><img src="https://custom-icon-badges.demolab.com/badge/Spring_Boot-white?logo=spring-boot&style=flate"></a>
 	<a href="https://tomcat.apache.org/"><img src="https://custom-icon-badges.demolab.com/badge/Apache_Tomcat-F8DC75?logo=apache-tomcat&logoColor=black&style=flate"></a>
