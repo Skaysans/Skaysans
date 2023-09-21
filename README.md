@@ -14,6 +14,7 @@
 		<a href="https://www.instagram.com/solahkay/#gh-light-mode-only" target="blank"><img align="center" src="./assets/icons/instagram-light.svg" alt="solahkay" height="25" width="40" /></a>
 		<a href="https://www.instagram.com/solahkay/#gh-dark-mode-only" target="blank"><img align="center" src="./assets/icons/instagram-dark.svg" alt="solahkay" height="25" width="40" /></a>
 	</div>
+	
 <hr>
 
 <p align="center">
@@ -44,26 +45,16 @@
 	<a href="https://spring.io/projects/spring-boot#gh-light-mode-only"><img src="https://custom-icon-badges.demolab.com/badge/Spring_Boot-F2F4F9?logo=spring-boot&style=flate"></a>
 	<a href="https://spring.io/projects/spring-boot#gh-dark-mode-only"><img src="https://custom-icon-badges.demolab.com/badge/Spring_Boot-white?logo=spring-boot&style=flate"></a>
 	<a href="https://tomcat.apache.org/"><img src="https://custom-icon-badges.demolab.com/badge/Apache_Tomcat-F8DC75?logo=apache-tomcat&logoColor=black&style=flate"></a>
-
-
 </p>
 
 <h3 align="center">✨ What Am I Doing Right Now?</h3>
 
-<div align="center" style="display: flex">
-	<div style="flex: 30%;">⭐ Enrolled in a Backend Java Course</div>
-	<div style="flex: 10%;"></div>
-	<div style="flex: 30%;">🌱 Learning Spring and related Technologies</div>
-	<div style="flex: 10%;"></div>
-	<div style="flex: 30%;">🤿 Deep dive into Backend Development</div>
-</div>
-<br>
 <div align="center">
-	<div style="flex: 15%;"></div>
-	<div style="flex: 30%;">💻 Working on a challenging project as part of my Backend Java Course</div>
-	<div style="flex: 10%;"></div>
-	<div style="flex: 30%;">⚡ Try to be active in programming communities</div>
-	<div style="flex: 15%;"></div>
+	<div>⭐ Enrolled in a Backend Java Course</div>
+	<div>🌱 Learning Spring and Related Technologies</div>
+	<div>🤿 Deep dive into Backend Development</div>
+	<div>💻 Working on a challenging project as part of my Backend Java Course</div>
+	<div>⚡ Try to be active in programming communities</div>
 </div>
 
 <hr>
@@ -74,10 +65,12 @@
 	<a href="https://github.com/solahkay" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solahkay&layout=compact&hide_border=true&theme=radical" height="170" /></a>
 	<a href="https://github.com/solahkay" ><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=solahkay&theme=2077" height="170" /></a>
 </div>
+
 <div align="center">
 	<a href="https://github.com/solahkay" ><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=solahkay&theme=2077&utcOffset=7" height="170" /></a>
 	<a href="https://github.com/solahkay" ><img src="https://github-readme-stats.vercel.app/api?username=solahkay&hide_border=true&line_height=29&show_icons=true&theme=radical" height="170" /></a>
 </div>
+
 <div align="center">
 	<a href="https://github.com/solahkay" ><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=solahkay&theme=2077" height="187" /></a>
 </div>
