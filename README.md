@@ -1,4 +1,4 @@
-## Hi There 👋
+## Hi <a href="https://github.com/solahkay" target="blank"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsolahkay%2Fsolahkay&countColor=%2337d67a&style=flat-square&labelStyle=upper" /></a> 👋
 
 <div align="center">
 	 <img align="right" src="./assets/images/solahkay.png" alt="Solahkay logo" width="300" height="170">
