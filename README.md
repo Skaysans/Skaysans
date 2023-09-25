@@ -45,6 +45,7 @@
 	<a href="https://spring.io/projects/spring-boot#gh-light-mode-only"><img src="https://custom-icon-badges.demolab.com/badge/Spring_Boot-F2F4F9?logo=spring-boot&style=flate"></a>
 	<a href="https://spring.io/projects/spring-boot#gh-dark-mode-only"><img src="https://custom-icon-badges.demolab.com/badge/Spring_Boot-white?logo=spring-boot&style=flate"></a>
 	<a href="https://tomcat.apache.org/"><img src="https://custom-icon-badges.demolab.com/badge/Apache_Tomcat-F8DC75?logo=apache-tomcat&logoColor=black&style=flate"></a>
+	<a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=flate" /></a>
 </p>
 
 <h3 align="center">✨ What Am I Doing Right Now?</h3>
